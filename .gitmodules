@@ -1,0 +1,4 @@
+[submodule "tmva-branch-adder-source"]
+	path = tmva-branch-adder-source
+	url = https://github.com/pseyfert/tmva-branch-adder.git
+	branch = cmake-export
